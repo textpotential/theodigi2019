@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Markdown?
+title: bible as interface
 ---
 
 ## Simple

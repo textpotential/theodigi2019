@@ -2,20 +2,17 @@
 layout: default
 ---
 
-### Description of Project
+##Theologies of the Digital Workshop 2019
 
-Here, you can give a brief outline of the project or even just post your abstract from proposal.
+This project is my contribution to the international workshop on Theologies of the Digital held in November 2019 at Princeton Theological Seminary. 
 
-### Participants (Commitee Members)
+### Participants
 
-List any additional participants in the project and link to their social or professional profiles here[^test].
-
-[^test]: This is a test note.
+All of the work I do is collaborative. In this project, my [Experimental Humanities team at Iliff](https://www.iliff.edu/experimental-humanities/) has been a core inspiration and partner in the work at all stages. I also hope that this space will allow for the other participants of the workshop to become collaborators in this project. 
 
 ### Link to Zotero for bibliography
 
-See [Shawn Goodwin's](https://github.com/e2dubba) proof of concept for [rendering a Zotero library in GitHub pages](https://github.com/e2dubba/e2dubba.github.io/blob/master/bibliography.html).
-
+Coming soon!
 
 ### Posts
 
