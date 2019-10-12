@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Theologies of the Digital Workshop 2019
+## Theologies of the Digital Workshop 2019
 
 This project is my contribution to the international workshop on Theologies of the Digital held in November 2019 at Princeton Theological Seminary. 
 
